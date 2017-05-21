@@ -38,8 +38,8 @@
    { "keys": ["ctrl+pageup"], "command": "rotate_to_prev_tab_in_group" },
 
    // Move tabs (using MoveTab package)
-   // {"keys": ["ctrl+alt+pageup"], "command": "move_tab", "args": {"position": "-1"} },
-   // {"keys": ["ctrl+alt+pagedown"], "command": "move_tab", "args": {"position": "+1"} },
+   {"keys": ["ctrl+alt+pageup"], "command": "move_tab", "args": {"position": "-1"} },
+   {"keys": ["ctrl+alt+pagedown"], "command": "move_tab", "args": {"position": "+1"} },
 
    // // Wrap line to 80 chars (using WrapPlus package)
    // { "keys": ["alt+w", "1"], "command": "wrap_lines_plus", "args": {"width": 80} },
