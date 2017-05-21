@@ -99,4 +99,7 @@
 
    // { "keys": ["ctrl+space"], "command": "expand_selection", "args": {"to": "scope"} },
 
+   // TerminalView test
+   {"keys": ["ctrl+c"], "command": "terminal_view_keypress", "args": {"key": "c", "alt": false, "ctrl": true, "shift": false, "meta": false}, "context": [{"key": "setting.terminal_view"}]},
+
 ]
