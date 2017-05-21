@@ -14,6 +14,8 @@
 	"auto_match_enabled": false,
 	"caret_style": "phase",
 	"close_windows_when_empty": false,
+	"color_scheme": "Packages/User/Ocean Dark Soda Wrambergified.tmTheme",
+	"theme": "Gravity One.sublime-theme",
 	"detect_indentation": true,
 	"dpi_scale": 0.99,
 	"draw_minimap_border": false,
@@ -50,6 +52,5 @@
 	"tab_size": 4,
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": "true",
-	"color_scheme": "Packages/User/Ocean Dark Soda Wrambergified.tmTheme",
+	"word_wrap": "true"
 }
