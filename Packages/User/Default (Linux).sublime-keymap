@@ -18,7 +18,7 @@
    { "keys": ["f2"], "command": "run_macro" },
 
    // Make find under expand compatible with macro recording (using custom package)
-  { "keys": ["ctrl+d"], "command": "find_under_expand_macro_compatible" },
+   { "keys": ["ctrl+d"], "command": "find_under_expand_macro_compatible" },
 
    // Delete entire line (using Delete Line package)
    { "keys": ["ctrl+e"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} },
@@ -41,10 +41,10 @@
    {"keys": ["ctrl+alt+pageup"], "command": "move_tab", "args": {"position": "-1"} },
    {"keys": ["ctrl+alt+pagedown"], "command": "move_tab", "args": {"position": "+1"} },
 
-   // // Wrap line to 80 chars (using WrapPlus package)
-   // { "keys": ["alt+w", "1"], "command": "wrap_lines_plus", "args": {"width": 80} },
-   // { "keys": ["alt+w", "2"], "command": "wrap_lines_plus", "args": {"width": 100} },
-   // { "keys": ["alt+w", "3"], "command": "wrap_lines_plus", "args": {"width": 120} },
+   // Wrap line to 80 chars (using WrapPlus package)
+   { "keys": ["alt+w", "1"], "command": "wrap_lines_plus", "args": {"width": 80} },
+   { "keys": ["alt+w", "2"], "command": "wrap_lines_plus", "args": {"width": 100} },
+   { "keys": ["alt+w", "3"], "command": "wrap_lines_plus", "args": {"width": 120} },
 
    // // Add multiple cursors (using MarkAndMove package)
    // { "keys": ["alt+c"], "command": "mark_and_move_do_it_all" },
