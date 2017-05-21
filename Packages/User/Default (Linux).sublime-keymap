@@ -24,8 +24,8 @@
    { "keys": ["ctrl+e"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} },
 
    // Go up/down multiple lines (using LineJumper package)
-//   {"keys": ["ctrl+up"], "command": "line_jumper", "args": {"number_of_lines": 10, "cmd": "up"} },
-//   {"keys": ["ctrl+down"], "command": "line_jumper", "args": {"number_of_lines": 10, "cmd": "down"} },
+   {"keys": ["ctrl+up"], "command": "line_jumper", "args": {"number_of_lines": 10, "cmd": "up"} },
+   {"keys": ["ctrl+down"], "command": "line_jumper", "args": {"number_of_lines": 10, "cmd": "down"} },
 
    // Open path to current file (using OpenPath package)
    // { "keys": ["f10"], "command": "open_file_folder"},
