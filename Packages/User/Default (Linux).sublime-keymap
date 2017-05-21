@@ -53,9 +53,9 @@
    { "keys": ["ctrl+y"], "command": "goto_last_edit_enhanced"},
    { "keys": ["ctrl+shift+y"], "command": "goto_last_edit_enhanced", "args": {"backward": true }},
 
-   // // Scroll (using ScrollAlternative package)
-   // {"keys": ["ctrl+alt+up"], "command": "scroll_lines_enhanced", "args": {"amount": -20 }},
-   // {"keys": ["ctrl+alt+down"], "command": "scroll_lines_enhanced", "args": {"amount": 20 }},
+   // Scroll (using ScrollAlternative package)
+   {"keys": ["ctrl+alt+up"], "command": "scroll_lines_enhanced", "args": {"amount": -20 }},
+   {"keys": ["ctrl+alt+down"], "command": "scroll_lines_enhanced", "args": {"amount": 20 }},
 
    // // Pane resizing (using PanePane package)
    // { "keys": ["alt+shift+down"], "command": "pane_pane_resize", "args": { "dimension": "width", "resize": "decrease" }},
