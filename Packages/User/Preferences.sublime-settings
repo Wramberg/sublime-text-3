@@ -15,9 +15,7 @@
 	"caret_style": "phase",
 	"close_windows_when_empty": false,
 	"color_scheme": "Packages/User/Ocean Dark Soda Wrambergified.tmTheme",
-	"theme": "Gravity One.sublime-theme",
 	"detect_indentation": true,
-	"dpi_scale": 0.99,
 	"draw_minimap_border": false,
 	"enable_tab_scrolling": false,
 	"ensure_newline_at_eof_on_save": true,
@@ -48,9 +46,10 @@
 	"shift_tab_unindent": true,
 	"show_encoding": true,
 	"show_line_endings": true,
-	"show_tab_close_buttons": false,
 	"tab_size": 4,
+	"theme": "Gravity One.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": "true"
+	"word_wrap": "true",
+	"gravity_tab_font_small": true
 }
