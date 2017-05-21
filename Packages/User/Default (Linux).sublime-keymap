@@ -49,9 +49,9 @@
    // Add multiple cursors (using MarkAndMove package)
    { "keys": ["alt+c"], "command": "mark_and_move_do_it_all" },
 
-   // // Go to last edit (using GotoLastEditEnhanced package)
-   // { "keys": ["ctrl+y"], "command": "goto_last_edit_enhanced"},
-   // { "keys": ["ctrl+shift+y"], "command": "goto_last_edit_enhanced", "args": {"backward": true }},
+   // Go to last edit (using GotoLastEditEnhanced package)
+   { "keys": ["ctrl+y"], "command": "goto_last_edit_enhanced"},
+   { "keys": ["ctrl+shift+y"], "command": "goto_last_edit_enhanced", "args": {"backward": true }},
 
    // // Scroll (using ScrollAlternative package)
    // {"keys": ["ctrl+alt+up"], "command": "scroll_lines_enhanced", "args": {"amount": -20 }},
