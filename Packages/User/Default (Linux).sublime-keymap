@@ -34,8 +34,8 @@
    // { "keys": ["ctrl+o"], "command": "open_browse" },
 
    // Switch between tabs in group (using custom RotateBetweenTabsInGroup package)
-   // { "keys": ["ctrl+pagedown"], "command": "rotate_to_next_tab_in_group" },
-   // { "keys": ["ctrl+pageup"], "command": "rotate_to_prev_tab_in_group" },
+   { "keys": ["ctrl+pagedown"], "command": "rotate_to_next_tab_in_group" },
+   { "keys": ["ctrl+pageup"], "command": "rotate_to_prev_tab_in_group" },
 
    // Move tabs (using MoveTab package)
    // {"keys": ["ctrl+alt+pageup"], "command": "move_tab", "args": {"position": "-1"} },
