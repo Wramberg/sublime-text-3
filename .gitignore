@@ -19,3 +19,6 @@
 *.last-run
 Data/Index/*
 recent.json
+
+# Index files
+Index/
