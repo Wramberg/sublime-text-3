@@ -46,8 +46,8 @@
    { "keys": ["alt+w", "2"], "command": "wrap_lines_plus", "args": {"width": 100} },
    { "keys": ["alt+w", "3"], "command": "wrap_lines_plus", "args": {"width": 120} },
 
-   // // Add multiple cursors (using MarkAndMove package)
-   // { "keys": ["alt+c"], "command": "mark_and_move_do_it_all" },
+   // Add multiple cursors (using MarkAndMove package)
+   { "keys": ["alt+c"], "command": "mark_and_move_do_it_all" },
 
    // // Go to last edit (using GotoLastEditEnhanced package)
    // { "keys": ["ctrl+y"], "command": "goto_last_edit_enhanced"},
