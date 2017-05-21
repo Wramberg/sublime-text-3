@@ -87,11 +87,11 @@
    // { "keys": ["f7"], "command": "perforce_checkout" },
    // { "keys": ["f8"], "command": "perforce_add" },
 
-   // // Repeat recorded macro X time (using RepeatMacro package)
+   // Repeat recorded macro X time (using RepeatMacro package)
    // { "keys": ["f3"], "command": "repeat_macro" },
 
    // // Execute selected python code and replace with result (using Echo Evaluate package)
-   // { "keys": ["ctrl+shift+x"], "command": "echo_eval" },
+   { "keys": ["ctrl+shift+x"], "command": "echo_eval" },
 
    //
    // Old shortcuts that were used once and might be used again
