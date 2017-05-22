@@ -13,6 +13,7 @@
    { "keys": ["alt+up"], "command": "select_lines", "args": {"forward": false} },
    { "keys": ["alt+down"], "command": "select_lines", "args": {"forward": true} },
    { "keys": ["alt+q"], "command": "toggle_setting", "args": {"setting": "word_wrap"}},
+   { "keys": ["alt+shift+w"], "command": "toggle_setting", "args": {"setting": "word_wrap"}},
    { "keys": ["f12"], "command": "show_panel", "args": {"panel": "console", "toggle": true}},
    { "keys": ["f1"], "command": "toggle_record_macro" },
    { "keys": ["f2"], "command": "run_macro" },

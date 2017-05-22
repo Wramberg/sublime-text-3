@@ -19,6 +19,7 @@
 	"draw_minimap_border": false,
 	"enable_tab_scrolling": false,
 	"ensure_newline_at_eof_on_save": true,
+	"font_face": "DejaVuSansMono",
 	"font_size": 10,
 	"gravity_tab_font_small": true,
 	"highlight_line": true,
@@ -51,6 +52,5 @@
 	"theme": "Gravity One.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": "true",
-    "font_face": "DejaVuSansMono",
+	"word_wrap": "true"
 }
