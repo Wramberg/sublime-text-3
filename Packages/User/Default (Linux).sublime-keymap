@@ -31,7 +31,7 @@
    { "keys": ["f10"], "command": "open_file_folder"},
 
    // Open simple browsing view (mainly for when the folder structure is known)
-   // { "keys": ["ctrl+o"], "command": "open_browse" },
+   { "keys": ["ctrl+o"], "command": "open_browse" },
 
    // Switch between tabs in group (using custom RotateBetweenTabsInGroup package)
    { "keys": ["ctrl+pagedown"], "command": "rotate_to_next_tab_in_group" },
