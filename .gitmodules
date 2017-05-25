@@ -1,3 +1,6 @@
 [submodule "Packages/SublimeTextTerminalView"]
 	path = Packages/SublimeTextTerminalView
 	url = https://github.com/Wramberg/SublimeTextTerminalView.git
+[submodule "Packages/FindInProject"]
+	path = Packages/FindInProject
+	url = https://github.com/Wramberg/sublime-text-3-linux.git
