@@ -4,3 +4,6 @@
 [submodule "Packages/FindInProject"]
 	path = Packages/FindInProject
 	url = https://github.com/Wramberg/FindInProject.git
+[submodule "Packages/TerminalView"]
+	path = Packages/TerminalView
+	url = https://github.com/Wramberg/SublimeTextTerminalView.git
