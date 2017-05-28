@@ -106,4 +106,7 @@
    {"keys": ["ctrl+e"], "command": "terminal_view_keypress", "args": {"key": "e", "alt": false, "ctrl": true, "shift": false, "meta": false}, "context": [{"key": "setting.terminal_view"}]},
    {"keys": ["ctrl+a"], "command": "terminal_view_keypress", "args": {"key": "a", "alt": false, "ctrl": true, "shift": false, "meta": false}, "context": [{"key": "setting.terminal_view"}]},
    {"keys": ["ctrl+d"], "command": "terminal_view_keypress", "args": {"key": "d", "alt": false, "ctrl": true, "shift": false, "meta": false}, "context": [{"key": "setting.terminal_view"}]},
+   {"keys": ["ctrl+b"], "command": "terminal_view_keypress", "args": {"key": "b", "alt": false, "ctrl": true, "shift": false, "meta": false}, "context": [{"key": "setting.terminal_view"}]},
+    {"keys": ["ctrl+r"], "command": "terminal_view_keypress", "args": {"key": "r", "alt": false, "ctrl": true, "shift": false, "meta": false}, "context": [{"key": "setting.terminal_view"}]},
+
 ]
