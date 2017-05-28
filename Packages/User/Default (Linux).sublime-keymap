@@ -100,7 +100,10 @@
 
    // { "keys": ["ctrl+space"], "command": "expand_selection", "args": {"to": "scope"} },
 
-   // TerminalView test
+   // TerminalView keybindings override
+   {"keys": ["ctrl+x"], "command": "terminal_view_keypress", "args": {"key": "x", "alt": false, "ctrl": true, "shift": false, "meta": false}, "context": [{"key": "setting.terminal_view"}]},
    {"keys": ["ctrl+c"], "command": "terminal_view_keypress", "args": {"key": "c", "alt": false, "ctrl": true, "shift": false, "meta": false}, "context": [{"key": "setting.terminal_view"}]},
-
+   {"keys": ["ctrl+e"], "command": "terminal_view_keypress", "args": {"key": "e", "alt": false, "ctrl": true, "shift": false, "meta": false}, "context": [{"key": "setting.terminal_view"}]},
+   {"keys": ["ctrl+a"], "command": "terminal_view_keypress", "args": {"key": "a", "alt": false, "ctrl": true, "shift": false, "meta": false}, "context": [{"key": "setting.terminal_view"}]},
+   {"keys": ["ctrl+d"], "command": "terminal_view_keypress", "args": {"key": "d", "alt": false, "ctrl": true, "shift": false, "meta": false}, "context": [{"key": "setting.terminal_view"}]},
 ]
